@@ -10,6 +10,7 @@ This outputs a binary named `main`
 
 # running
 `./main encode` - encodes something, drops it to `out.txt`
+
 `./main decode` - decode content from `out.txt`
 
 For the seed you can put any number. It is used for the random number generator.
